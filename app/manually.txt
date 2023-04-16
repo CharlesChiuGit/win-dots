@@ -1,0 +1,5 @@
+FileZilla
+SyncToy
+WinGet-AutoUpdate
+firefox
+oCam

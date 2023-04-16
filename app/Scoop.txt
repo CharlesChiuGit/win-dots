@@ -1,0 +1,15 @@
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+irm get.scoop.sh | iex
+scoop bucket add extras
+scoop bucket add nerd-fonts
+
+scoop install 7zip
+scoop install JetBrainsMono-NF-Mono
+scoop install dark
+scoop install delta
+scoop install lazygit
+scoop install neovim
+scoop install nodejs
+scoop install python
+scoop install starship
+scoop install zoxide
