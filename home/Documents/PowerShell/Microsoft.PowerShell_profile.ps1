@@ -9,3 +9,5 @@ Invoke-Expression (& {
 
 # Alias
 Set-Alias -Name lg -Value "C:\Users\Charles\scoop\shims\lazygit.exe"
+del alias:nv -Force
+Set-Alias -Name nv -Value "C:\Users\charles\scoop\shims\nvim.exe"
