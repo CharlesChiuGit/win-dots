@@ -49,6 +49,7 @@
         [
             {
                 "colorScheme": "Catppuccin Frapp\u00e9",
+                "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe -MTA -NoLogo -NoProfileLoadTime",
                 "font": 
                 {
                     "face": "JetBrainsMono NFM",
