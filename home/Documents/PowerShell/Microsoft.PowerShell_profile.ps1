@@ -8,6 +8,6 @@ Invoke-Expression (& {
 })
 
 # Alias
-Set-Alias -Name lg -Value "C:\Users\Charles\scoop\shims\lazygit.exe"
+Set-Alias -Name lg -Value "$env:UserProfile\scoop\shims\lazygit.exe"
 del alias:nv -Force
-Set-Alias -Name nv -Value "C:\Users\charles\scoop\shims\nvim.exe"
+Set-Alias -Name nv -Value "$env:UserProfile\scoop\shims\nvim.exe"
