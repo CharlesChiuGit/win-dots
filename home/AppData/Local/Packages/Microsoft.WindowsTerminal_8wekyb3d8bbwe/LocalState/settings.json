@@ -42,8 +42,10 @@
         {
             "font": 
             {
-                "face": "JetBrainsMono NFM"
-            }
+                "face": "JetBrainsMono Nerd Font Mono",
+                "size": 10.0
+            },
+            "opacity": 70
         },
         "list": 
         [
@@ -52,8 +54,8 @@
                 "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe -MTA -NoLogo -NoProfileLoadTime",
                 "font": 
                 {
-                    "face": "JetBrainsMono NFM",
-                    "size": 14.0,
+                    "face": "JetBrainsMono Nerd Font Mono",
+                    "size": 10.0,
                     "weight": "light"
                 },
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
@@ -98,7 +100,7 @@
             {
                 "colorScheme": "Tango Dark",
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
-                "elevate": true,
+                "elevate": false,
                 "font": 
                 {
                     "face": "JetBrainsMono Nerd Font Mono",
@@ -117,16 +119,26 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "guid": "{2faea8c8-38cc-5cd4-9a60-299a6f506405}",
+                "bellStyle": "none",
+                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "font": 
+                {
+                    "size": 10.0
+                },
+                "guid": "{d7b20cea-47a9-518c-95a4-c8bd91e2e1c6}",
                 "hidden": false,
-                "name": "Developer Command Prompt for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
+                "name": "Ubuntu 22.04.2 LTS",
+                "opacity": 70,
+                "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
+                "useAcrylic": true
             },
             {
-                "guid": "{ed4a26bc-e969-592f-bdcb-dab42f2b9797}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
+                "guid": "{17bf3de4-5353-5709-bcf9-835bd952a95e}",
+                "hidden": true,
+                "name": "Ubuntu-22.04",
+                "opacity": 70,
+                "source": "Windows.Terminal.Wsl",
+                "useAcrylic": true
             }
         ]
     },
@@ -340,6 +352,29 @@
             "yellow": "#C4A000"
         },
         {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-22.04-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
+        },
+        {
             "background": "#000000",
             "black": "#000000",
             "blue": "#000080",
@@ -370,14 +405,14 @@
             "name": "Catppuccin Frappe",
             "tab": 
             {
-                "background": "#414559FF",
+                "background": "#303446FF",
                 "showCloseButton": "always",
                 "unfocusedBackground": null
             },
             "tabRow": 
             {
-                "background": "#303446FF",
-                "unfocusedBackground": "#292C3CFF"
+                "background": "#292C3CFF",
+                "unfocusedBackground": "#232634FF"
             },
             "window": 
             {
