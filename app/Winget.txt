@@ -30,3 +30,4 @@ winget install Caprine.Caprine
 winget install CiderCollective.Cider
 winget install th-ch.YouTubeMusic
 winget install File-New-Project.EarTrumpet
+winget install Element.Element
