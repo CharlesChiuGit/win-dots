@@ -1,19 +1,19 @@
-winget install CrystalDewWorld.CrystalDiskInfo --location "D:\Winget\CrystalDiskInfo"
-winget install CrystalDewWorld.CrystalDiskMark --location "D:\Winget\CrystalDiskMark"
-winget install JGraph.Draw --location "D:\Winget\Draw.io"
-winget install FastStone.Viewer --location "D:\Winget\FastStone"
-winget install Foxit.FoxitReader --location "D:\Winget\FoxitReader"
-winget install Harmonoid.Harmonoid --location "D:\Winget\Harmonoid"
-winget install CosmoX.Lepton --location "D:\Winget\Lepton"
-winget install Logitech.UnifyingSoftware --location "D:\Winget\LogiUnify"
-winget install Logitech.OptionsPlus --location "D:\Winget\LogiOptionPlus"
-winget install Logitech.LogiBolt --location "D:\Winget\LogiBolt"
-winget install PicGo.PicGo --location "D:\Winget\PicGo"
-winget install Obsidian.Obsidian --location "D:\Winget\Obsidian"
-winget install PopcornTime.Popcorn-Time --location "D:\Winget\Popcorn-Time"
-winget install Daum.PotPlayer --location "D:\Winget\PotPlayer"
-winget install Telegram.TelegramDesktop --location "D:\Winget\TelegramDesktop"
-winget install Microsoft.VisualStudioCode --location "D:\Winget\VSCode"
+winget install CrystalDewWorld.CrystalDiskInfo
+winget install CrystalDewWorld.CrystalDiskMark
+winget install JGraph.Draw
+winget install FastStone.Viewer
+winget install Foxit.FoxitReader
+winget install Harmonoid.Harmonoid
+winget install CosmoX.Lepton
+# winget install Logitech.UnifyingSoftware
+winget install Logitech.OptionsPlus
+winget install Logitech.LogiBolt
+# winget install PicGo.PicGo
+winget install Obsidian.Obsidian
+winget install PopcornTime.Popcorn-Time
+winget install Daum.PotPlayer
+winget install Telegram.TelegramDesktop
+winget install Microsoft.VisualStudioCode
 winget install AdGuard.AdGuard
 winget install Bandisoft.Honeyview
 winget install DIscord.Discord
@@ -26,4 +26,7 @@ winget install Nvidia.GeForceExperience
 winget install RARLab.WinRAR
 winget install RustemMussabekov.Raindrop
 winget install Valve.Steam
-winget install rcmaehl.MSEdgeRedirect
+winget install Caprine.Caprine
+winget install CiderCollective.Cider
+winget install th-ch.YouTubeMusic
+winget install File-New-Project.EarTrumpet
