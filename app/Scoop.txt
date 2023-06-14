@@ -14,4 +14,3 @@ scoop install nodejs
 scoop install python
 scoop install starship
 scoop install zoxide
-scoop install extras/youtube-music
