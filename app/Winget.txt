@@ -34,3 +34,5 @@ winget install Element.Element
 winget install Romanitho.WiGUI
 winget install Mozilla.Firefox
 winget install Microsoft.WindowsSDK.10.0.22621
+winget install Clement.bottom
+winget install gitui
