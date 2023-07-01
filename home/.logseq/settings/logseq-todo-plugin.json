@@ -1,6 +1,7 @@
 {
   "hotkey": "mod+shift+t",
   "defaultMarker": "",
+  "customMarkers": "WAITING",
   "defaultPriority": "",
   "whereToPlaceNewTask": "",
   "showNextNDaysTask": false,
