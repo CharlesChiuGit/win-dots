@@ -32,6 +32,7 @@ winget install th-ch.YouTubeMusic
 winget install File-New-Project.EarTrumpet
 winget install Element.Element
 winget install Romanitho.WiGUI
+winget install SomePythonThings.WingetUIStore
 winget install Mozilla.Firefox
 winget install Microsoft.WindowsSDK.10.0.22621
 winget install Clement.bottom
