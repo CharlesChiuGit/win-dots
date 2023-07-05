@@ -35,3 +35,4 @@
  :logseq-query-builder-plugin {:version "0.7", :repo "adxsoft/logseq-query-builder-plugin", :effect false, :theme false}
  :logseq-smartsearch {:version "v0.23.0", :repo "sethyuan/logseq-plugin-smartsearch", :effect true, :theme false}
  :logseq-fenced-code-plus {:version "0.0.7", :repo "xyhp915/logseq-fenced-code-plus", :effect true, :theme false}
+}
