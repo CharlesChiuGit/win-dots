@@ -5,6 +5,7 @@
     pager = delta
     # fix git not working in pwsh on windows
     sshCommand = 'C:\\Windows\\System32\\OpenSSH\\ssh.exe'
+	compression = 0
 [alias]
 	st = status
 	cm = commit -m
@@ -30,3 +31,9 @@
     colorMoved = default
 [delta "interactive"]
     keep-plus-minus-markers = true
+[safe]
+	directory = D:/Workspace/win-dots
+	directory = D:\\Workspace\\dotfiles
+	directory = D:\\Workspace\\Logseq_db
+	directory = D:/Workspace/Logseq_db
+	directory = D:/Workspace/dotfiles
