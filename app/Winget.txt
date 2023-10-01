@@ -37,3 +37,4 @@ winget install Mozilla.Firefox
 winget install Microsoft.WindowsSDK.10.0.22621
 winget install Clement.bottom
 winget install GeekUninstaller.GeekUninstaller
+winget install -e --id Rustlang.Rustup
