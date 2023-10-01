@@ -24,11 +24,11 @@
   "booleanWeeklyJournalThisWeekWeekday": false,
   "booleanWeeklyJournalThisWeekLinkWeekday": false,
   "booleanJournalLinkLocalizeDayOfWeek": true,
+  "disabled": false,
   "journalBoundariesBeforeToday": "5",
   "journalBoundariesAfterToday": "3",
   "journalsBoundariesWeekOnly": false,
   "noPageFoundCreatePage": false,
-  "disabled": false,
   "booleanJournalLinkAddLocalizeDayOfWeek": true,
   "notice": "20230822no01"
 }

@@ -8,8 +8,6 @@
  {:version "v.1.2.0", :repo "vyleung/logseq-copy-code-plugin", :effect true, :theme false},
  :logseq-osmmaps-plugin
  {:version "2.2.3", :repo "hkgnp/logseq-osmmaps-plugin", :effect true, :theme false},
- :logseq-ol
- {:version "v0.6.1", :repo "sethyuan/logseq-plugin-ol", :effect false, :theme false},
  :logseq-schrodinger
  {:version "1.5.5",
   :repo "sawhney17/logseq-schrodinger",
@@ -50,4 +48,7 @@
  :logseq_block_spacer {:version "v1.0.1", :repo "gfgafn/logseq_block_spacer", :effect false, :theme false}
  :logseq-plugin-block-transformer {:version "v1.0.2", :repo "JuniverseCoder/logseq-plugin-block-transformer", :effect false, :theme false}
  :logseq-plugin-two-hop-link {:version "v1.17.1", :repo "YU000jp/logseq-plugin-two-hop-link", :effect true, :theme false}
- :logseq-mhtml-viewer {:version "v1.0.2", :repo "lee88688/logseq-mhtml-view-plugin", :effect true, :theme false}}
+ :logseq-mhtml-viewer {:version "v1.0.2", :repo "lee88688/logseq-mhtml-view-plugin", :effect true, :theme false}
+ :logseq-live-math {:version "v1.1.6", :repo "AllanChain/logseq-live-math", :effect true, :theme false}
+ :logseq-bidi {:version "0.1.0", :repo "dobidi/logseq-bidi", :effect true, :theme false}
+ :logseq-hierarchy-jump {:version "v0.3.4", :repo "sethyuan/logseq-plugin-hierarchy-jump", :effect true, :theme false}}
